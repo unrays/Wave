@@ -2,6 +2,7 @@
 High-performance C++ ECS with cache-friendly design.
 
 I'm probably gonna add a description here very soon :)
+It's not perfect and I don't claim to be an expert in the field of ECS, but I'm 100% satisfied with my progress since I discovered the subject a month ago. In my two years of programming, ECS is the thing that has impacted me the most; I'm telling you, it's like a revelation for me :)
 Coded on November 14, 2025
 
 ```console
