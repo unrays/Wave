@@ -20,25 +20,6 @@ Setup 100000000 entities with 2 components each: 617.791 ms
 Accessed and modified Position and Velocity components: 86.2993 ms
 ```
 
-versus the same system I made in C#
-
-```console
-Setup 10000 entities with 3 components each: 7 ms
-Accessed and modified Position and Velocity components: 0,090 ms
-
-Setup 100000 entities with 3 components each: 8 ms
-Accessed and modified Position and Velocity components: 0,203 ms
-
-Setup 1000000 entities with 3 components each: 19 ms
-Accessed and modified Position and Velocity components: 2,086 ms
-
-Setup 10000000 entities with 3 components each: 108 ms
-Accessed and modified Position and Velocity components: 20,323 ms
-
-Setup 100000000 entities with 3 components each: 958 ms
-Accessed and modified Position and Velocity components: 211,961 ms
-```
-
 ```cpp
 // Copyright (c) November 2025 Félix-Olivier Dumas. All rights reserved.
 // Licensed under the terms described in the LICENSE file
