@@ -21,7 +21,7 @@ Setup 100000000 entities with 2 components each: 617.791 ms
 Accessed and modified Position and Velocity components: 86.2993 ms
 ```
 
-###Code
+### Code
 ```cpp
 // Copyright (c) November 2025 Félix-Olivier Dumas. All rights reserved.
 // Licensed under the terms described in the LICENSE file
