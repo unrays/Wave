@@ -6,6 +6,8 @@ It's not perfect and I don't claim to be an expert in the field of ECS, but I'm 
 Coded on November 14, 2025
 
 ```console
+test run on a configuration with a Ryzen 5 9600X overclocked to 5.6GHz, 32GB of RAM at 7400MHz CL34
+
 Setup 10000 entities with 2 components each: 0.0397 ms
 Accessed and modified Position and Velocity components: 0.0082 ms
 
