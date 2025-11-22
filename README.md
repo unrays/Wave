@@ -2,6 +2,7 @@
 High-performance C++ ECS with cache-friendly design.
 
 I'm probably gonna add a description here very soon :)
+Coded on November 14, 2025
 
 ```console
 Setup 10000 entities with 2 components each: 0.0397 ms
@@ -20,6 +21,7 @@ Setup 100000000 entities with 2 components each: 617.791 ms
 Accessed and modified Position and Velocity components: 86.2993 ms
 ```
 
+###Code
 ```cpp
 // Copyright (c) November 2025 Félix-Olivier Dumas. All rights reserved.
 // Licensed under the terms described in the LICENSE file
