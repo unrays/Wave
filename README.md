@@ -1,4 +1,4 @@
-<<div align="center" style="line-height:1.4">
+<div align="center" style="line-height:1.4">
 
 <h1 style="margin-bottom: 0.2em;">Wave</h1>
 <h3 style="margin-top:0; margin-bottom:0.5em;">High-Performance C++ ECS</h3>
