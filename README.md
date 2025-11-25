@@ -1,13 +1,17 @@
-<div align="center">
+<<div align="center" style="line-height:1.4">
 
-# Wave
-### High-Performance C++ ECS
+<h1 style="margin-bottom: 0.2em;">Wave</h1>
+<h3 style="margin-top:0; margin-bottom:0.5em;">High-Performance C++ ECS</h3>
 
-**Cache-friendly, polymorphic, and optimized for massive entity management.**
+<p style="margin-top:0.2em; margin-bottom:0.5em; font-weight:bold;">
+Cache-friendly, polymorphic, and optimized for massive entity management.
+</p>
+
+<p style="margin-top:0;">November 14, 2025</p>
 
 </div>
 
-<hr style="border:1px solid #ccc">
+<hr style="border:0; border-top:1px solid #ccc; margin: 1em 0;">
 
 I understand that this might seem intimidating and very laborious to read, but I assure you it's interesting. It's a small part of my life, and I wanted to share it because things like this are what drive me every day. Here is the account and the result of a month of learning and exploring things that still fascinate me so much today :)
 
