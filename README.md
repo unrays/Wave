@@ -7,7 +7,7 @@
 Cache-friendly, polymorphic, and optimized for massive entity management.
 </p>
 
-<p style="margin-top:0;">November 14, 2025</p>
+<p style="margin-top:0; color:#555;">November 14, 2025 • ⚡</p>
 
 </div>
 
