@@ -1,6 +1,8 @@
 # Wave
 High-performance C++ ECS with cache-friendly design.
 
+I understand that this might seem intimidating and very laborious to read, but I assure you it's interesting. It's a small part of my life, and I wanted to share it because things like this are what drive me every day. Here is the account and the result of a month of learning and exploring things that still fascinate me so much today :)
+
 I'm probably gonna add a description here very soon :)
 It's not perfect and I don't claim to be an expert in the field of ECS, but I'm 100% satisfied with my progress since I discovered the subject a month ago. In my two years of programming, ECS is the thing that has impacted me the most; I'm telling you, it's like a revelation for me :)
 Coded on November 14, 2025
