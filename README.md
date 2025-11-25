@@ -1,5 +1,11 @@
-# Wave — High-Performance C++ ECS
+<div align="center">
+
+# Wave
+### High-Performance C++ ECS
+
 **Cache-friendly, polymorphic, and optimized for massive entity management.**
+
+</div>
 
 ---
 
