@@ -1,5 +1,7 @@
-# Wave
-High-performance C++ ECS with cache-friendly design.
+# Wave — High-Performance C++ ECS
+**Cache-friendly, polymorphic, and optimized for massive entity management.**
+
+---
 
 I understand that this might seem intimidating and very laborious to read, but I assure you it's interesting. It's a small part of my life, and I wanted to share it because things like this are what drive me every day. Here is the account and the result of a month of learning and exploring things that still fascinate me so much today :)
 
